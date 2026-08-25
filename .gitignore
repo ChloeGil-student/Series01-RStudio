@@ -1,0 +1,14 @@
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Fichiers temporaires
+*.swp
+*.swo
+*~
+
+# Système
+.DS_Store
+Thumbs.db
